@@ -1,0 +1,4 @@
+all --force --with-gcc=clang --trace
+
+rvm 1.18.18 (stable) by Wayne E. Seguin <wayneeseguin@gmail.com>, Michal Papis <mpapis@gmail.com> [https://rvm.io/]
+
